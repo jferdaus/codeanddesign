@@ -1,0 +1,18 @@
+#customize-controls .control-section-foraProVersion .accordion-section-title:hover,
+#customize-controls .control-section-foraProVersion .accordion-section-title:focus {
+	background-color: #fff;
+}
+.control-section-foraProVersion .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	background: #689e5b;
+    color: #fff;
+    box-shadow: none;
+    border: none;
+	font-size: 80%;
+    padding: 0 5px;
+}
+#accordion-section-cresta_fora_buy_pro h3 {
+	background-color: #000000 !important;
+	color: #ffffff !important;
+}
